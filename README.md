@@ -2,4 +2,4 @@
 
 # How to Use:
 
-open a new terminal on codespaces and just type ./begin_server
+Open minecraft and add life-yapping.gl.joinmc.link
